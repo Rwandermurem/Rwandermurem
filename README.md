@@ -24,39 +24,10 @@
 
 ---
 
-## 📂 Projetos
+## 📂 Repositorios
 
-### 🔹 Active Directory Lab
+https://github.com/Rwandermurem?tab=repositories
 
-Simulação de ambiente corporativo utilizando Windows Server.
-
-**Recursos implementados:**
-- Active Directory
-- DNS
-- Group Policy (GPO)
-- Compartilhamentos de Rede
-- Permissões NTFS
-- Drive Mapping
-
-🔗 Repository:
-https://github.com/Rwandermurem/active-directory-lab
-
----
-
-### ☁️ Azure Lab 01 - Fundamentals
-
-Laboratório voltado para os fundamentos da plataforma Microsoft Azure.
-
-**Recursos implementados:**
-- Resource Group
-- Virtual Network (VNet)
-- Subnet
-- Network Security Group (NSG)
-- Storage Account
-- Azure Blob Storage
-
-🔗 Repository:
-https://github.com/Rwandermurem/Azure-lab-01-fundamentos
 
 ---
 
