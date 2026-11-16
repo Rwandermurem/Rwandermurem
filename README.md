@@ -1,10 +1,10 @@
 # Olá, eu sou Richardson Wandermurem 👋
 
-💻 Profissional de TI com foco em Infraestrutura e Cloud Computing.
+💻 Profissional de TI com foco em Infraestrutura e suporte TI.
 
 🎓 Graduado em Análise e desenvolvimento de sistemas.
 
-🚀 Atualmente estudando Microsoft Azure, Redes e Automação para evoluir minha carreira em Infraestrutura e Computação em Nuvem.
+🚀 Atualmente estudando Microsoft Azure, Redes e Automação para evoluir minha carreira.
 
 ---
 
